@@ -17,7 +17,7 @@
 {%- else -%}{%- assign col = 'col-sm-4' -%}
 {%- endcase -%}
 {%- assign cap = im.didascalia | escape -%}
-<div class="{{ col }} mt-3 mt-md-0"><figure class="galleria-fig"><a href="{{ im.src | relative_url }}" data-galleria="{{ include.id }}" data-cap="{{ cap }}"><img src="{{ im.src | relative_url }}" alt="{{ cap }}" loading="lazy" class="rounded z-depth-1"></a>{%- if cap != '' -%}<figcaption class="caption">{{ cap }}</figcaption>{%- endif -%}</figure></div>
+<div class="{{ col }} mt-3 mt-md-0"><figure class="galleria-fig"><a href="{{ im.src | relative_url }}" data-galleria="{{ include.id }}" data-cap="{{ cap }}"><img src="{{ im.src | relative_url }}" alt="{% if cap != '' %}{{ cap }}{% else %}Villa Tre Colli, foto {{ forloop.index }}{% endif %}" loading="lazy" class="rounded z-depth-1"></a>{%- if cap != '' -%}<figcaption class="caption">{{ cap }}</figcaption>{%- endif -%}</figure></div>
 {%- if pos == galleria_last or forloop.last -%}</div>{%- endif -%}
 {%- endfor -%}
 </div>

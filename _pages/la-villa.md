@@ -5,6 +5,7 @@ nav: true
 nav_order: 1
 permalink: /la-villa/
 description: "La villa, le sale, la cucina interna, lo spazio esterno e il Tunnel dell’Amore di Villa Tre Colli a Monterotondo."
+seo_title: "La villa e i suoi spazi: sale, cucina e giardino | Villa Tre Colli"
 dropdown: true
 children:
   - title: "La villa"

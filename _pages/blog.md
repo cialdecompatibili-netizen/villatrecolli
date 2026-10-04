@@ -2,6 +2,7 @@
 layout: default
 permalink: /blog/
 title: Blog
+description: "Il blog di Villa Tre Colli: classifiche, consigli e novità sulle location per eventi a Monterotondo e dintorni."
 nav: true
 nav_order: 5
 dropdown: true

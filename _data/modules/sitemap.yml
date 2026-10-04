@@ -1,2 +1,2 @@
-exclude_paths: "/admin/\n/_pages/\n/tag/\n/category/"
+exclude_paths: "/admin/\n/_pages/\n/tag/\n/category/\n/chi-siamo/\n/blog/index.html\n/blog/2024/\n/robots.txt"
 include_lastmod: true

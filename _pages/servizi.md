@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Servizi
+description: "Tutti i servizi di Villa Tre Colli a Monterotondo: la villa, i servizi inclusi, il catering, l'animazione e gli eventi che ospitiamo."
 nav: true
 nav_order: 2
 permalink: /servizi/
