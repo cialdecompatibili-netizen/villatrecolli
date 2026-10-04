@@ -55,3 +55,14 @@ Il dominio non e' ancora pronto: il sito resta su cialdecompatibili-netizen.gith
 5. Foto mancanti in Animazione e musica e Servizi inclusi.
 6. Togliere le due gallerie di prova del template (_data/gallerie/test-lavori-prima.json e test-lavori-dopo.json).
 7. Refuso "eveno" nella description di Servizi inclusi: copiato uguale all'originale, chiedere se correggerlo.
+
+## PRIMA DI PUBBLICARE (quando ci sara' il dominio, NIENTE DA FARE ORA)
+
+Il dominio non e' ancora pronto: il sito resta su cialdecompatibili-netizen.github.io/villatrecolli/. Non iniziare senza che Mirco lo chieda.
+1. Cambiare url e baseurl in _config.yml e il percorso della sitemap in robots.txt per il dominio vero.
+2. Redirect dai vecchi indirizzi WordPress ai nuovi (es. /la-villa/ -> /servizi/la-villa/, /battesimo-comunione-e-cresima-a-villa-tre-colli/ -> /servizi/battesimo-comunione-e-cresima/).
+3. Copiare i SEO Title originali di villatrecolli.com (es. "La villa - Villa Tre Colli"). Le meta description sono gia' copiate.
+4. Form contatti assente: serve un Worker Cloudflare dedicato a Villa Tre Colli.
+5. Foto mancanti in Animazione e musica e Servizi inclusi.
+6. Togliere le due gallerie di prova del template (_data/gallerie/test-lavori-prima.json e test-lavori-dopo.json).
+7. Refuso "eveno" nella description di Servizi inclusi: copiato uguale all'originale, chiedere se correggerlo.

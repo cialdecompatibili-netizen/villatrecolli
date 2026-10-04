@@ -110,7 +110,7 @@ Other gates:
 - Nascondi/Mostra usano 'published: false' (come l'occhio): Mostra toglie la riga.
 
 ## Immagine in evidenza (articoli)
-- Campi `thumbnail` e `thumbnail_alt` nell'editor articoli. `_pages/blog.md` usa `thumbnail_alt` (fallback: titolo) come alt.
+- Campi `thumbnail` e `thumbnail_alt` nell'editor articoli. `_pages/blog.md` usa `thumbnail_alt` (fallback: titolo) come alt. L'immagine in evidenza compare anche in cima all'articolo (`_layouts/post.liquid`, solo collection posts); la spunta "Non visualizzarla nell'articolo" scrive `thumbnail_hide: true` e la toglie dall'articolo lasciandola nell'elenco del blog.
 
 
 ## Estratto e Leggi tutto (elenco blog)
