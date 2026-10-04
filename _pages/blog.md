@@ -8,6 +8,8 @@ dropdown: true
 children:
   - title: "Tutti gli articoli"
     permalink: /blog/
+  - title: "divider"
+    permalink: "#"
   - title: "Classifiche"
     permalink: /blog/category/classifiche/
 pagination:

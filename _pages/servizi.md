@@ -8,8 +8,12 @@ dropdown: true
 children:
   - title: "Servizi inclusi"
     permalink: /servizi/servizi-inclusi/
+  - title: "divider"
+    permalink: "#"
   - title: "Catering e banqueting"
     permalink: /servizi/catering-e-banqueting/
+  - title: "divider"
+    permalink: "#"
   - title: "Animazione e musica"
     permalink: /servizi/animazione-e-musica/
 ---
