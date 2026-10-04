@@ -18,7 +18,7 @@ latest_posts:
   scrollable: true
   limit: 3
 seo_title: "{title} | Location per matrimoni ed eventi a Monterotondo, Roma"
-seo_description: "Villa Tre Colli a Monterotondo, alle porte di Roma: location per matrimoni, riti civili, battesimi, comunioni, feste ed eventi aziendali, con cucina interna e giardino all'inglese."
+seo_description: "Villa Tre Colli è una location Ideale per feste ed eventi privati situata a due passi da Roma, nella ridente cittadina di Monterotondo <3"
 ---
 
 <style>
