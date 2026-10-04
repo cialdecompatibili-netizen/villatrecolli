@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Villa Tre Colli # the website title (if blank, full name will be used instead)
 first_name:
 middle_name: Web
 last_name: 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # ripiego per i motori di ricerca: NON compare nel sito (vedi _includes/metadata.liquid)
-  Web agency a Roma dal 2013: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA.
+  Villa Tre Colli a Monterotondo, alle porte di Roma: location per matrimoni, cerimonie, feste ed eventi aziendali con cucina interna e giardino.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -120,16 +120,16 @@ og_image: /assets/img/og-default.png # immagine di anteprima di default. Path SE
 # 'name' vuoto = nome del sito. Con 'street' compilato il tipo diventa LocalBusiness (override con 'type', es. ProfessionalService).
 schema_org:
   name:
-  type:
+  type: EventVenue
   logo: # path assoluto, es. /assets/img/logo.png
-  telephone:
-  email:
-  street:
-  city:
-  region:
-  postal_code:
-  country: # codice a 2 lettere, es. IT
-  area_served:
+  telephone: "+39 333 849 5178"
+  email: info@villatrecolli.com
+  street: Via Guerrazzi 103
+  city: Monterotondo
+  region: Lazio
+  postal_code: "00015"
+  country: IT # codice a 2 lettere, es. IT
+  area_served: Roma e provincia
   same_as: [] # profili ufficiali (LinkedIn, Facebook...), lista di URL
   service_category: servizi # OBSOLETO, non letto da nessuno: i servizi sono la collection 'servizi' e metadata.liquid li riconosce da page.collection (non dalla categoria). Lasciato per compatibilita'; non serve modificarlo.
 
@@ -789,6 +789,6 @@ performance:
 # La chiave segreta sta SOLO nel Worker (wrangler secret TURNSTILE_SECRET), mai qui. Vuoti = il form non compare.
 # Il Worker verifica Turnstile e inoltra al tracker Google esistente (TRACKER_URL in wrangler.toml).
 contatti:
-  endpoint: "https://contatti-form.evabomboniere.workers.dev"
-  turnstile_sitekey: "0x4AAAAAAFNJy_IB22gVYOuB"
+  endpoint: ""
+  turnstile_sitekey: ""
   captcha: "altcha" # "turnstile" oppure "altcha" (calcolo nel browser, senza servizi esterni). Per altcha serve il secret ALTCHA_HMAC nel Worker (crea_altcha.ps1)

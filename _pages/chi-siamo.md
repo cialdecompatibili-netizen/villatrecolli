@@ -1,9 +1,9 @@
 ---
 layout: page
-title: chi siamo
-nav: false
+title: la villa
+nav: true
 permalink: /chi-siamo/
-description: Web agency a Roma dal 2013. Strategia, siti, e-commerce, campagne e applicativi su misura.
+description: Villa Tre Colli a Monterotondo, alle porte di Roma: location per matrimoni, cerimonie, feste ed eventi aziendali con cucina interna.
 ---
 
 <style>
@@ -40,71 +40,49 @@ html[data-theme="dark"] .cs-num div,html[data-theme="dark"] .cs-card,html[data-t
 </style>
 
 <div class="cs-hero">
-  <span class="cs-eyebrow">Chi siamo</span>
-  <h2>Trasformiamo idee e obiettivi di business in piattaforme digitali che funzionano.</h2>
-  <p>Siamo una web agency di Roma e lavoriamo dal 2013 con imprenditori, start up, grandi aziende e Pubblica Amministrazione. Non vendiamo pacchetti preconfezionati: partiamo dal tuo business, capiamo dove vuoi arrivare e costruiamo il percorso più concreto per arrivarci.</p>
+  <span class="cs-eyebrow">Villa Tre Colli</span>
+  <h2>Una villa tra le colline, a due passi da Roma, per i giorni che contano.</h2>
+  <p>Villa Tre Colli sorge a Monterotondo, immersa nel verde e nella quiete. È una location per matrimoni, cerimonie, feste private ed eventi aziendali, con sale interne, giardino all'inglese e una cucina interna per un servizio curato dall'inizio alla fine.</p>
   <div class="cs-cta">
 <a class="cs-btn pri" href="{{ '/contatti/' | relative_url }}">Richiedi un preventivo</a>
-<a class="cs-btn" href="{{ '/servizi/' | relative_url }}">Scopri i servizi</a>
+<a class="cs-btn" href="{{ '/servizi/' | relative_url }}">Scopri la villa</a>
   </div>
 </div>
 
 <div class="cs-num">
-  <div><b>Dal 2013</b><small>a Roma, sul campo</small></div>
-  <div><b>24 ore</b><small>per la nostra risposta*</small></div>
-  <div><b>1° incontro</b><small>di consulenza gratuito</small></div>
-  <div><b>Privato e PA</b><small>esperienza con entrambi</small></div>
+  <div><b>Fino a 250</b><small>ospiti nella Sala Grande</small></div>
+  <div><b>2 sale</b><small>collegate tra loro</small></div>
+  <div><b>Cucina interna</b><small>piatti preparati sul posto</small></div>
+  <div><b>Uso esclusivo</b><small>la villa è tutta per il tuo evento</small></div>
 </div>
-<p class="cs-nota">*Festivi esclusi.</p>
 
 <div class="cs-sec">
-  <h2>Come lavoriamo</h2>
-  <p class="cs-sub">Un unico gruppo di professionisti segue il progetto dall'inizio alla fine, così niente passaggi di mano e niente messaggi che si perdono.</p>
+  <h2>La villa</h2>
+  <p class="cs-sub">Spazi interni ed esterni pensati per far stare bene gli ospiti.</p>
   <div class="cs-grid">
-    <div class="cs-card cs-step"><i>01</i><b>Ascolto e analisi</b><p>Studiamo attività, mercato e concorrenti. Definiamo insieme gli obiettivi e come misurarli.</p></div>
-    <div class="cs-card cs-step"><i>02</i><b>Strategia</b><p>Traduciamo l'analisi in un piano chiaro: priorità, tempi, budget e canali giusti per te.</p></div>
-    <div class="cs-card cs-step"><i>03</i><b>Progetto e sviluppo</b><p>Design, contenuti e tecnologia prendono forma: siti, e-commerce, campagne e applicativi su misura.</p></div>
-    <div class="cs-card cs-step"><i>04</i><b>Misura e migliora</b><p>Guardiamo i numeri, non le impressioni. Ottimizziamo nel tempo per far crescere i risultati.</p></div>
+    <a class="cs-card" href="{{ '/servizi/le-sale-di-villa-tre-colli/' | relative_url }}"><b>Le sale</b><p>Sala Grande e Sala Piccola, luminose e curate nei dettagli.</p></a>
+    <a class="cs-card" href="{{ '/servizi/lo-spazio-esterno/' | relative_url }}"><b>Lo spazio esterno</b><p>Giardino all'inglese e prato, per cerimonie, aperitivi e giochi dei bambini.</p></a>
+    <a class="cs-card" href="{{ '/servizi/la-cucina-interna/' | relative_url }}"><b>La cucina interna</b><p>Il catering lavora sul posto e i piatti arrivano a tavola freschi.</p></a>
   </div>
 </div>
 
 <div class="cs-sec">
-  <h2>Cosa facciamo</h2>
-  <p class="cs-sub">Tutto ciò che serve per essere trovati, scelti e ricordati online.</p>
+  <h2>Per quali eventi</h2>
   <div class="cs-grid">
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Siti e piattaforme</b><p>Siti aziendali, portali e applicativi sviluppati sulle esigenze reali del tuo business.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>E-commerce</b><p>Negozi online pensati per vendere, dalla scelta della piattaforma alla crescita.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Web marketing</b><p>SEO, campagne e social per portare le persone giuste sul tuo sito.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Brand identity</b><p>Un'immagine coerente e riconoscibile, dal logo all'esperienza d'uso.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Comunicazione</b><p>Contenuti e messaggi che raccontano chi sei a chi conta davvero.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Consulenza</b><p>Analisi e strategia per decidere dove investire, prima di spendere.</p></a>
-  </div>
-</div>
-
-<div class="cs-sec">
-  <h2>Perché scegliere noi</h2>
-  <div class="cs-grid c2">
-    <div class="cs-card"><b>Analisi su misura</b><p>Ogni progetto nasce dal tuo business e dai tuoi obiettivi, non da un modello standard.</p></div>
-    <div class="cs-card"><b>Creatività e concretezza</b><p>Idee che si vedono e numeri che si leggono: puntiamo a risultati misurabili.</p></div>
-    <div class="cs-card"><b>Un solo interlocutore</b><p>Dalla strategia al risultato, un team coordinato che risponde di tutto il progetto.</p></div>
-    <div class="cs-card"><b>Tempi di risposta certi</b><p>Ti rispondiamo entro 24 ore (festivi esclusi) e la prima consulenza è gratuita.</p></div>
-  </div>
-</div>
-
-<div class="cs-sec">
-  <h2>Per chi lavoriamo</h2>
-  <div class="cs-grid">
-    <div class="cs-card"><b>Imprenditori e PMI</b><p>Portiamo online l'attività e la aiutiamo a crescere con strumenti che si ripagano.</p></div>
-    <div class="cs-card"><b>Start up</b><p>Dal lancio alla scalata: piattaforme flessibili e una comunicazione che parte col piede giusto.</p></div>
-    <div class="cs-card"><b>Grandi aziende e PA</b><p>Progetti strutturati, processi chiari e attenzione a requisiti e continuità.</p></div>
+    <a class="cs-card" href="{{ '/servizi/matrimonio-a-villa-tre-colli/' | relative_url }}"><b>Matrimoni</b><p>Cerimonia, foto, aperitivo e ricevimento nello stesso luogo.</p></a>
+    <a class="cs-card" href="{{ '/servizi/matrimonio-civile/' | relative_url }}"><b>Matrimonio civile</b><p>Rito civile ufficiale nel giardino, con il Messo Comunale.</p></a>
+    <a class="cs-card" href="{{ '/servizi/battesimo-comunione-e-cresima/' | relative_url }}"><b>Battesimi, comunioni e cresime</b><p>Una giornata serena per grandi e piccoli.</p></a>
+    <a class="cs-card" href="{{ '/servizi/compleanni-e-feste-a-tema/' | relative_url }}"><b>Compleanni e feste a tema</b><p>Per bambini, diciottesimi e adulti, con animazione se vuoi.</p></a>
+    <a class="cs-card" href="{{ '/servizi/meeting-aziendali/' | relative_url }}"><b>Meeting aziendali</b><p>Riunioni, cene e giornate di team building fuori dall'ufficio.</p></a>
+    <a class="cs-card" href="{{ '/servizi/catering-e-banqueting/' | relative_url }}"><b>Catering e banqueting</b><p>Menù e allestimento con il nostro partner Pepe Catering.</p></a>
   </div>
 </div>
 
 <div class="cs-final">
-  <h2>Vuoi far crescere il tuo business?</h2>
-  <p>Raccontaci di cosa hai bisogno: costruiamo insieme la soluzione giusta per te. La prima consulenza è gratuita.</p>
+  <h2>Vuoi vedere la villa?</h2>
+  <p>Vieni a trovarci in Via Guerrazzi 103, a Monterotondo, oppure chiama il 333 849 5178. Ti facciamo visitare la villa e prepariamo insieme il tuo evento.</p>
   <div class="cs-cta">
 <a class="cs-btn pri" href="{{ '/contatti/' | relative_url }}">Richiedi un preventivo</a>
-<a class="cs-btn" href="{{ '/servizi/' | relative_url }}">Scopri i servizi</a>
+<a class="cs-btn" href="{{ '/servizi/' | relative_url }}">Scopri la villa</a>
   </div>
 </div>
