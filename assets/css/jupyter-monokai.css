@@ -60,8 +60,7 @@ a:focus {
 #logout:focus,
 #logout.focus,
 #logout:active,
-#logout.active,
-.open > .dropdown-toggle#logout {
+#logout.active {
   color: #f8f8f2;
   background-color: #f8f8f0;
   background: #f8f8f0;
@@ -257,8 +256,7 @@ div#notebook {
 
 .btn:hover,
 .btn:active:hover,
-.btn.active:hover,
-.open > .dropdown-toggle.btn:hover {
+.btn.active:hover {
   color: #a6e22e;
   border: 2px solid #2a2a2a;
   background-color: #2a2a2a;
@@ -273,9 +271,7 @@ div#notebook {
 .btn:active:focus,
 .btn.active:focus,
 .btn:active.focus,
-.btn.active.focus,
-.open > .dropdown-toggle.btn:focus,
-.open > .dropdown-toggle.btn.focus {
+.btn.active.focus {
   color: #a6e22e;
   border: 2px solid #2a2a2a;
   background-color: #2a2a2a !important;
@@ -300,14 +296,6 @@ div#notebook {
   background-color: #546745 !important;
   border-color: #546745 !important;
   transition: 200ms ease !important;
-}
-
-
-.btn-sm {
-  font-size: inherit;
-  font-weight: normal;
-  height: inherit;
-  line-height: inherit;
 }
 
 button.close {
@@ -388,20 +376,6 @@ div.panel,
   box-shadow: none;
 }
 
-div.form-control,
-.form-control {
-  font-family: sans-serif;
-  font-size: initial;
-  color: #f8f8f0;
-  background-color: #282828;
-  border: 1px solid #282828 !important;
-  margin-left: 2px;
-  box-shadow: none;
-  transition:
-    border-color 0.15s ease-in-out 0s,
-    box-shadow 0.15s ease-in-out 0s;
-}
-
 input,
 button,
 select,
@@ -424,12 +398,6 @@ textarea {
   background: #2f2f2f !important;
   background-color: #2f2f2f !important;
   border: 2px solid #2f2f2f !important;
-}
-
-.form-control:focus {
-  border-color: #a6e22e;
-  outline: 2px solid #49483e;
-  -webkit-box-shadow: none;
 }
 
 ::-webkit-input-placeholder {
@@ -481,7 +449,6 @@ h6,
 pre,
 code,
 form,
-legend,
 input,
 button,
 textarea,
