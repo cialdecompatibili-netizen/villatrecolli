@@ -7,6 +7,8 @@ ordine: 5
 sottotitolo: "Un angolo romantico per le foto"
 ---
 
+{% include immagine.liquid src="assets/img/villatrecolli/tunnel-amore-home.jpg" alt="Il Tunnel dell'Amore - Villa Tre Colli" align="center" %}
+
 ## Il Tunnel dell’amore, un gioiello per il Vostro matrimonio, che rende unica Villa Tre Colli in tutta Roma
 
 Il tunnel dell’amore è una struttura ideata e realizzata appositamente per gli sposi, un’esclusiva tutta di Villa Tre Colli.

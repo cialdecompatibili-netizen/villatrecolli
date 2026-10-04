@@ -8,6 +8,8 @@ in_home: true
 sottotitolo: "Cerimonia e ricevimento nello stesso posto"
 ---
 
+{% include immagine.liquid src="assets/img/villatrecolli/matrimonio-civile-home.jpg" alt="Matrimonio a Villa Tre Colli" align="center" %}
+
 ## Un matrimonio a Villa Tre Colli, una location meravigliosa a due passi da Roma, nella splendida campagna di Monterotondo
 
 Realizzate il sogno della vostra vita a Villa Tre Colli, la giusta location per il vostro matrimonio a due passi da Roma, nella città di Monterotondo.
