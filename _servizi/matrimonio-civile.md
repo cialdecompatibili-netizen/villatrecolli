@@ -1,7 +1,7 @@
 ---
 layout: servizio
 title: "Matrimonio civile"
-description: "Rito civile ufficiale all'aperto a Villa Tre Colli, Monterotondo: giardino all'inglese, allestimento completo e presenza del Messo Comunale, anche per chi vive all'estero."
+description: "Rito civile ufficiale all’aperto a Villa Tre Colli, Monterotondo: giardino all’inglese, allestimento completo e presenza del Messo Comunale, anche per chi vive all’estero."
 gruppo: "Eventi"
 ordine: 2
 in_home: true

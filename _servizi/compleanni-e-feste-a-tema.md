@@ -1,7 +1,7 @@
 ---
 layout: servizio
 title: "Compleanni e feste a tema"
-description: "Festa di compleanno o a tema a Villa Tre Colli, Monterotondo vicino Roma: spazio per tanti ospiti, giochi all'aperto, sala attrezzata e animazione per bambini e adulti."
+description: "Festa di compleanno o a tema a Villa Tre Colli, Monterotondo vicino Roma: spazio per tanti ospiti, giochi all’aperto, sala attrezzata e animazione per bambini e adulti."
 gruppo: "Eventi"
 ordine: 4
 in_home: true

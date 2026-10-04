@@ -1,7 +1,7 @@
 ---
 layout: servizio
 title: "Lo spazio esterno"
-description: "Giardino all'inglese e prato a Villa Tre Colli, Monterotondo: lo scenario per cerimonie all'aperto, aperitivi e giochi dei bambini, immersi nel verde."
+description: "Giardino all’inglese e prato a Villa Tre Colli, Monterotondo: lo scenario per cerimonie all’aperto, aperitivi e giochi dei bambini, immersi nel verde."
 gruppo: "La villa"
 ordine: 4
 sottotitolo: "Giardino e prato"
