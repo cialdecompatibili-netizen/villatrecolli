@@ -14,7 +14,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 3
 seo_title: "{title} | Location per matrimoni ed eventi a Monterotondo, Roma"
@@ -53,11 +53,11 @@ html[data-theme="dark"] .srv-home-more a{border-color:rgba(255,255,255,.3)}
 
 <div class="vh-hero" markdown="1">
 
-## Villa Tre Colli, la location per i tuoi eventi alle porte di Roma.
+## Benvenuti a Villa Tre Colli
 
-A Monterotondo, immersa nel verde e circondata da un paesaggio collinare, Villa Tre Colli ospita matrimoni, riti civili, battesimi, comunioni, cresime, compleanni, feste a tema ed eventi aziendali. Un luogo tranquillo, a due passi dalla capitale, dove cerimonia, ricevimento e festa si svolgono nello stesso posto.
+Alle porte di Roma, nella prosperosa e ridente cittadina di Monterotondo, considerata da molti una tra le maggiori realtà storiche dal grande rilievo artistico e culturale, nei ppressi della capitale, sorge immersa in un eden di serenità e natura, circondata da uno splendido paesaggio collinare, Villa Tre Colli.
 
-Due sale interne collegate, un giardino all'inglese, una cucina interna dove il catering prepara i piatti sul posto e l'uso esclusivo della villa per il tuo evento.
+[Leggi tutto]({{ '/servizi/la-villa/' | relative_url }})
 
 <div class="vh-btns">
 <a class="vh-main" href="{{ '/contatti/' | relative_url }}">Richiedi un preventivo</a>
