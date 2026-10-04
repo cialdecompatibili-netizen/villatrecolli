@@ -8,6 +8,8 @@ in_home: true
 sottotitolo: "Rito civile ufficiale nel giardino"
 ---
 
+{% include immagine.liquid src="assets/img/villatrecolli/matrimonio-civile-home.jpg" alt="Cerimonia civile a Villa Tre Colli" align="center" %}
+
 Puoi celebrare il tuo **matrimonio civile** direttamente a Villa Tre Colli, a due passi da Roma, con una cerimonia **ufficiale**: alla celebrazione partecipa il **Messo Comunale**, come previsto per il rito.
 
 ## Dove si svolge

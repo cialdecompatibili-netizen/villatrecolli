@@ -7,6 +7,8 @@ ordine: 1
 sottotitolo: "Location per eventi a Monterotondo"
 ---
 
+{% include immagine.liquid src="assets/img/villatrecolli/villa-tre-colli-roma.jpg" alt="Villa Tre Colli di sera, con piscina e giardino" align="center" %}
+
 **Villa Tre Colli** si trova a Monterotondo, a pochi minuti da Roma, in una zona collinare tranquilla e piena di verde. È una location pensata per chi vuole festeggiare con calma, senza il traffico della città e con tutto lo spazio che serve agli ospiti.
 
 ## Cosa trovi

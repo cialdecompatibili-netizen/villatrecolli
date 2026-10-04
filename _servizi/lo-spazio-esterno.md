@@ -7,6 +7,8 @@ ordine: 4
 sottotitolo: "Giardino e prato"
 ---
 
+{% include immagine.liquid src="assets/img/villatrecolli/spazio-esterno-villa-tre-colli.jpg" alt="Spazio esterno di Villa Tre Colli" align="center" %}
+
 Gli esterni di Villa Tre Colli sono il punto forte della struttura. Intorno alla villa c'è un paesaggio di colline e un **giardino all'inglese** curato, dove gli ospiti possono muoversi liberamente.
 
 ## Come si usa

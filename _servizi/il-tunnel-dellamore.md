@@ -7,6 +7,8 @@ ordine: 5
 sottotitolo: "Un angolo romantico per le foto"
 ---
 
+{% include immagine.liquid src="assets/img/villatrecolli/tunnel-amore-2-home.jpg" alt="Tunnel degli innamorati di Villa Tre Colli" align="center" %}
+
 Tra gli spazi della villa c'è anche il **Tunnel dell'Amore**, un percorso scenografico che sposi e festeggiati scelgono spesso per le foto più belle della giornata.
 
 ## Perché piace

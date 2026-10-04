@@ -7,6 +7,8 @@ ordine: 2
 sottotitolo: "Sala Grande e Sala Piccola"
 ---
 
+{% include immagine.liquid src="assets/img/villatrecolli/home-hero-bg-sfilata-scaledx2.jpg" alt="Scalinata e facciata illuminata di Villa Tre Colli" align="center" %}
+
 La villa ha **due sale interne comunicanti**, diverse per dimensioni e per uso. Si possono usare insieme o separatamente, a seconda del tipo di evento.
 
 ## La Sala Grande

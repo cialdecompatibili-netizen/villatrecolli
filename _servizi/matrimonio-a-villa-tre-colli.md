@@ -8,6 +8,8 @@ in_home: true
 sottotitolo: "Cerimonia e ricevimento nello stesso posto"
 ---
 
+{% include immagine.liquid src="assets/img/villatrecolli/abito-sposa-2.jpeg" alt="Matrimonio a Villa Tre Colli" align="center" %}
+
 Per un matrimonio serve un luogo in cui tutto funzioni senza spostamenti: cerimonia, foto, aperitivo, pranzo o cena, festa. A **Villa Tre Colli** è così.
 
 ## Una giornata, un solo luogo
