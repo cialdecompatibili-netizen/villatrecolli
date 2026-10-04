@@ -2,6 +2,7 @@
 layout: servizio
 title: "Matrimonio civile"
 description: "Cerchi una location per celebrare il tuo matrimonio civile? Villa Tre Colli, a due passi da Roma, è perfetta per realizzare il tuo sogno!"
+seo_description: "Cerchi una location per celebrare il tuo matrimonio civile? Villa Tre Colli, a due passi da Roma, è perfetta per realizzare il tuo sogno!"
 gruppo: "Eventi"
 ordine: 2
 in_home: true

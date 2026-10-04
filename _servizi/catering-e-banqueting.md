@@ -2,6 +2,7 @@
 layout: servizio
 title: "Catering e banqueting"
 description: "Vuoi che il tuo evento sia accompagnato da un Catering a cinque stelle? La nostra scelta di menù ti sorprenderà: vieni a scoprirla!"
+seo_description: "Vuoi che il tuo evento sia accompagnato da un Catering a cinque stelle? La nostra scelta di menù ti sorprenderà: vieni a scoprirla!"
 gruppo: "Servizi"
 ordine: 2
 in_home: true

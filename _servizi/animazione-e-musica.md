@@ -2,6 +2,7 @@
 layout: servizio
 title: "Animazione e musica"
 description: "Vuoi organizzare il tuo evento a Villa Tre Colli? Approfitta del nostro servizio di animazione e musica, a misura di grandi e piccini!"
+seo_description: "Vuoi organizzare il tuo evento a Villa Tre Colli? Approfitta del nostro servizio di animazione e musica, a misura di grandi e piccini!"
 gruppo: "Servizi"
 ordine: 3
 sottotitolo: "Intrattenimento per ogni età"

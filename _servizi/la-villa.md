@@ -2,6 +2,7 @@
 layout: servizio
 title: "La villa"
 description: "Alle porte di Roma, Villa Tre Colli è la location per matrimoni ed eventi con panorama mozzafiato."
+seo_description: "Alle porte di Roma, Villa Tre Colli è la location per matrimoni ed eventi con panorama mozzafiato."
 gruppo: "La villa"
 ordine: 1
 sottotitolo: "Location per eventi a Monterotondo"

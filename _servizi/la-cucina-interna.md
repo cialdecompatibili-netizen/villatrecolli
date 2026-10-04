@@ -2,6 +2,7 @@
 layout: servizio
 title: "La cucina interna"
 description: "Vieni a scoprire tutti i vantaggi della cucina interna di Villa Tre Colli, per avere un rinfresco perfetto per tutti i tuoi eventi!"
+seo_description: "Vieni a scoprire tutti i vantaggi della cucina interna di Villa Tre Colli, per avere un rinfresco perfetto per tutti i tuoi eventi!"
 gruppo: "La villa"
 ordine: 3
 sottotitolo: "Piatti preparati sul posto"

@@ -2,6 +2,7 @@
 layout: servizio
 title: "Meeting aziendali"
 description: "Cerchi un luogo che soddisfi tutte le esigenze per il tuo meeting aziendale? Villa Tre Colli è il luogo perfetto per le tue conferenze!"
+seo_description: "Cerchi un luogo che soddisfi tutte le esigenze per il tuo meeting aziendale? Villa Tre Colli è il luogo perfetto per le tue conferenze!"
 gruppo: "Eventi"
 ordine: 5
 in_home: true

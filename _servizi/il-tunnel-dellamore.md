@@ -2,6 +2,7 @@
 layout: servizio
 title: "Il Tunnel dell’Amore"
 description: "Rendi il tuo matrimonio un evento speciale e suggestivo con il nostro Tunnel dell'Amore: solo a Villa Tre Colli, a Monterotondo!"
+seo_description: "Rendi il tuo matrimonio un evento speciale e suggestivo con il nostro Tunnel dell'Amore: solo a Villa Tre Colli, a Monterotondo!"
 gruppo: "La villa"
 ordine: 5
 sottotitolo: "Un angolo romantico per le foto"

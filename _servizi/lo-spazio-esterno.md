@@ -2,6 +2,7 @@
 layout: servizio
 title: "Lo spazio esterno"
 description: "Scopri il nostro spazio esterno: paradisiaco panorama, piscina e tantissimo spazio per celebrare il tuo evento!"
+seo_description: "Scopri il nostro spazio esterno: paradisiaco panorama, piscina e tantissimo spazio per celebrare il tuo evento!"
 gruppo: "La villa"
 ordine: 4
 sottotitolo: "Giardino e prato"

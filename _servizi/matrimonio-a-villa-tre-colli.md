@@ -2,6 +2,7 @@
 layout: servizio
 title: "Matrimonio a Villa Tre Colli"
 description: "Stai cercando una location per celebrare il tuo matrimonio a due passi da Roma? Vieni a scoprire la prestigiosa Villa Tre colli a Monterotondo"
+seo_description: "Stai cercando una location per celebrare il tuo matrimonio a due passi da Roma? Vieni a scoprire la prestigiosa Villa Tre colli a Monterotondo"
 gruppo: "Eventi"
 ordine: 1
 in_home: true

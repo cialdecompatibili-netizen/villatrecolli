@@ -2,6 +2,7 @@
 layout: servizio
 title: "Compleanni e feste a tema"
 description: "Cerchi un luogo suggestivo e attrezzato per festeggiare il tuo compleanno? Vieni a scoprire Villa Tre Colli, a due passi da Roma!"
+seo_description: "Cerchi un luogo suggestivo e attrezzato per festeggiare il tuo compleanno? Vieni a scoprire Villa Tre Colli, a due passi da Roma!"
 gruppo: "Eventi"
 ordine: 4
 in_home: true

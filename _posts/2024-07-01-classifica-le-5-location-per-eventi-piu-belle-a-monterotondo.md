@@ -3,6 +3,7 @@ layout: post
 title: "Le 5 Location Più Belle per Eventi a Monterotondo"
 date: 2024-07-01 15:33:00
 description: "In questa classifica andremo alla scoperta delle migliori ville per eventi nel territorio di Monterotondo, a due passi da Roma."
+seo_description: "In questa classifica andremo alla scoperta delle migliori ville per eventi nel territorio di Monterotondo, a due passi da Roma."
 categories: Classifiche
 thumbnail: assets/img/villatrecolli/villa-tre-colli-roma.jpg
 thumbnail_alt: "Villa Tre Colli a Monterotondo"

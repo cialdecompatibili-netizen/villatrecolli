@@ -2,6 +2,7 @@
 layout: servizio
 title: "Le sale di Villa Tre Colli"
 description: "Vieni a scoprire le meravigliose sale di Villa Tre Colli: ampie, luminose e soprattutto adatte ad ogni occasione ed evenienza!"
+seo_description: "Vieni a scoprire le meravigliose sale di Villa Tre Colli: ampie, luminose e soprattutto adatte ad ogni occasione ed evenienza!"
 gruppo: "La villa"
 ordine: 2
 sottotitolo: "Sala Grande e Sala Piccola"

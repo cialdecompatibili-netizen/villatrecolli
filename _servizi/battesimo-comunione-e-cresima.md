@@ -2,6 +2,7 @@
 layout: servizio
 title: "Battesimo, comunione e cresima"
 description: "Cerchi un luogo suggestivo per celebrare il tuo battesimo, la tua comunione o la tua cresima? Villa Tre Colli è la location perfetta per te!"
+seo_description: "Cerchi un luogo suggestivo per celebrare il tuo battesimo, la tua comunione o la tua cresima? Villa Tre Colli è la location perfetta per te!"
 gruppo: "Eventi"
 ordine: 3
 in_home: true

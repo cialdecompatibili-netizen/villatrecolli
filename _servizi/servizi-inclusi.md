@@ -2,6 +2,7 @@
 layout: servizio
 title: "Servizi inclusi"
 description: "Vieni a scoprire tutti i servizi inclusi nel tuo evento a Villa Tre Colli: location perfetta per il tuo eveno a due passi da Roma!"
+seo_description: "Vieni a scoprire tutti i servizi inclusi nel tuo evento a Villa Tre Colli: location perfetta per il tuo eveno a due passi da Roma!"
 gruppo: "Servizi"
 ordine: 1
 sottotitolo: "Cosa è compreso"
