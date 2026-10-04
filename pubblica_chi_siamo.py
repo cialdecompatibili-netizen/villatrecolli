@@ -150,7 +150,7 @@ def genera(cont: dict) -> str:
     pg, c, stile = cont["pagina"], cont["contatti"], cont.get("stile", {})
     p = stile.get("prefisso_css", "cs")
     front = (f"---\nlayout: page\ntitle: {pg['titolo']}\nnav: {str(pg.get('nav', False)).lower()}\n"
-             f"permalink: {pg['permalink']}\ndescription: {pg.get('description', '')}\n---\n\n")
+             f"permalink: {pg['permalink']}\n" + (f"nav_order: {pg['nav_order']}\n" if 'nav_order' in pg else "") + "description: " + __import__('json').dumps(pg.get('description', ''), ensure_ascii=False) + "\n---\n\n")
     blocchi = []
     for i, s in enumerate(cont["sezioni"], 1):
         f = RENDER.get(s.get("tipo"))

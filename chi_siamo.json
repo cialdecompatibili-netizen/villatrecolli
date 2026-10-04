@@ -2,10 +2,11 @@
   "_nota": "Contenuto della pagina /chi-siamo/. Modifica SOLO questo file, poi lancia: python pubblica_chi_siamo.py --push. Le sezioni sono in 'sezioni' e vengono generate nell'ordine scritto: per aggiungere/togliere/riordinare basta duplicare o cancellare un blocco. Tipi sezione: hero, numeri, griglia, finale. Nei testi e' ammesso HTML semplice (<b>, <a>). {baseurl} non serve: i link usano il filtro relative_url.",
 
   "pagina": {
-    "titolo": "la villa",
+    "titolo": "La villa",
     "permalink": "/chi-siamo/",
     "description": "Villa Tre Colli a Monterotondo, alle porte di Roma. Location per matrimoni, cerimonie, feste ed eventi aziendali con cucina interna.",
-    "nav": true
+    "nav": true,
+    "nav_order": 1
   },
 
   "contatti": {
