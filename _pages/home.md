@@ -55,7 +55,7 @@ html[data-theme="dark"] .srv-home-more a{border-color:rgba(255,255,255,.3)}
 
 ## Benvenuti a Villa Tre Colli
 
-Alle porte di Roma, nella prosperosa e ridente cittadina di Monterotondo, considerata da molti una tra le maggiori realtà storiche dal grande rilievo artistico e culturale, nei ppressi della capitale, sorge immersa in un eden di serenità e natura, circondata da uno splendido paesaggio collinare, Villa Tre Colli.
+Alle porte di Roma, nella prosperosa e ridente cittadina di Monterotondo, considerata da molti una tra le maggiori realtà storiche dal grande rilievo artistico e culturale, nei pressi della capitale, sorge immersa in un eden di serenità e natura, circondata da uno splendido paesaggio collinare, Villa Tre Colli.
 
 [Leggi tutto]({{ '/servizi/la-villa/' | relative_url }})
 
