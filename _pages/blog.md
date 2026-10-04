@@ -2,8 +2,14 @@
 layout: default
 permalink: /blog/
 title: Blog
-nav: false
-published: false
+nav: true
+nav_order: 5
+dropdown: true
+children:
+  - title: "Tutti gli articoli"
+    permalink: /blog/
+  - title: "Classifiche"
+    permalink: /blog/category/classifiche/
 pagination:
   enabled: true
   collection: posts

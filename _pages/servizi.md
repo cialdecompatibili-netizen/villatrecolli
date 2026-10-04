@@ -4,6 +4,14 @@ title: Servizi
 nav: true
 nav_order: 2
 permalink: /servizi/
+dropdown: true
+children:
+  - title: "Servizi inclusi"
+    permalink: /servizi/servizi-inclusi/
+  - title: "Catering e banqueting"
+    permalink: /servizi/catering-e-banqueting/
+  - title: "Animazione e musica"
+    permalink: /servizi/animazione-e-musica/
 ---
 
 <style>

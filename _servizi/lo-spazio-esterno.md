@@ -1,25 +1,32 @@
 ---
 layout: servizio
 title: "Lo spazio esterno"
-description: "Giardino all’inglese e prato a Villa Tre Colli, Monterotondo: lo scenario per cerimonie all’aperto, aperitivi e giochi dei bambini, immersi nel verde."
+description: "Scopri il nostro spazio esterno: paradisiaco panorama, piscina e tantissimo spazio per celebrare il tuo evento!"
 gruppo: "La villa"
 ordine: 4
 sottotitolo: "Giardino e prato"
 ---
 
-{% include immagine.liquid src="assets/img/villatrecolli/spazio-esterno-villa-tre-colli.jpg" alt="Spazio esterno di Villa Tre Colli" align="center" %}
+## Lo spazio esterno di Villa Tre Colli, una piscina tra giardini e terrazze, per una tra le cornici più belle di Roma
 
-Gli esterni di Villa Tre Colli sono il punto forte della struttura. Intorno alla villa c'è un paesaggio di colline e un **giardino all'inglese** curato, dove gli ospiti possono muoversi liberamente.
+{% include immagine.liquid src="assets/img/villatrecolli/504885294_2744204625766127_548432150261417415_n.jpg" alt="Lo spazio esterno - Villa Tre Colli" align="center" %}
 
-## Come si usa
+Villa Tre Colli attorno a sé, gode di un ampio spazio esterno costituito da diversi elementi ottimamente connessi l’uno con l’altro, in modo tale da creare un unico e grande spazio funzionale all’aperto ricco di comfort.
 
-- **Cerimonie all'aperto**, anche con [rito civile ufficiale]({{ '/servizi/matrimonio-civile/' | relative_url }}), sul prato davanti agli ospiti;
-- **Aperitivo e accoglienza** all'aria aperta, prima di entrare in sala;
-- **Foto degli sposi** e dei festeggiati, con il verde come sfondo;
-- **Giochi e corse dei bambini** in sicurezza, nello spazio libero della villa.
+{% include immagine.liquid src="assets/img/villatrecolli/480268121_2634771646709426_3833008680700077021_n.jpg" alt="Lo spazio esterno - Villa Tre Colli" align="center" %}
 
-## Una scelta anche per le stagioni
+Arrivando a Villa Tre Colli, sarete subito accolti da un sontuoso viale d’ingresso, dal quale percorrendolo, comincerete man mano ad intravedere la nostra splendida villa. Giunti su in cima troverete un ampio piazzale, degno di essere il giusto palcoscenico per l’arrivo di una sposa o dei festeggiati.
 
-Con la bella stagione l'evento si sposta fuori; quando serve, le [sale interne]({{ '/servizi/le-sale-di-villa-tre-colli/' | relative_url }}) permettono di continuare senza problemi.
+{% include immagine.liquid src="assets/img/villatrecolli/477447275_2631911530328771_4250267049258482609_n.jpg" alt="Lo spazio esterno - Villa Tre Colli" align="center" %}
 
-Per sapere come allestire il giardino per il tuo evento, [parlaci della tua idea]({{ '/contatti/' | relative_url }}).
+Da qui, proprio attorno alla villa, si alterneranno con la giusta armonia differenti elementi, cominciando dalla nostra stupenda piscina, limpida di giorno ed illuminata la sera, che, bella come un gioiello prezioso, fa da ornamento alla nostra incantevole villa.
+
+{% include immagine.liquid src="assets/img/villatrecolli/476897935_2631911333662124_8472293081700034231_n.jpg" alt="Lo spazio esterno - Villa Tre Colli" align="center" %}
+
+Esplorando ancora con occhi curiosi come quelli di un fanciullo, noterete le nostre terrazze esterne, che ampie ed eleganti circondano la villa articolandosi su due diversi livelli e dalle quali potrete gustare i migliori buffet godendo di viste incredibili e per ultimo, ma non certo per la sua bellezza, il nostro curatissimo giardino all’inglese, che situato sul retro della struttura si estende dalla piscina fino alla terrazza più distante, chiudendo così la splendida cornice che circonda la villa.
+
+{% include immagine.liquid src="assets/img/villatrecolli/479520026_2634787763374481_7140271076512822357_n.jpg" alt="Lo spazio esterno - Villa Tre Colli" align="center" %}
+
+Aiuole ricche di colori vibranti, una natura incontaminata ed un verde curato, vi ospiteranno nella nostra magnifica villa.
+
+{% include immagine.liquid src="assets/img/villatrecolli/493165075_2704827203037203_381675592851159919_n.jpg" alt="Lo spazio esterno - Villa Tre Colli" align="center" %}

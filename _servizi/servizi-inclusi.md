@@ -1,20 +1,24 @@
 ---
 layout: servizio
 title: "Servizi inclusi"
-description: "Cosa trovi a Villa Tre Colli per il tuo evento a Monterotondo: uso esclusivo della villa, sale, cucina interna e supporto del personale."
+description: "Vieni a scoprire tutti i servizi inclusi nel tuo evento a Villa Tre Colli: location perfetta per il tuo evento a due passi da Roma!"
 gruppo: "Servizi"
 ordine: 1
 sottotitolo: "Cosa è compreso"
 ---
 
-Organizzare un evento è più facile quando la location pensa già a molte cose. A Villa Tre Colli trovi:
+## Scopri i servizi inclusi offerti da Villa Tre Colli. La location per i tuoi eventi a Monterotondo, Roma
 
-- **Uso esclusivo della villa** per il tuo evento;
-- **Sale interne e spazi esterni** per l'accoglienza, il ricevimento e la festa;
-- **Cucina interna** attrezzata per il catering;
-- **Personale** a disposizione durante la giornata;
-- **Consulenza** sulla scelta di menù, allestimento e organizzazione.
+Villa Tre Colli, per ogni tipo di evento che dovrete celebrare, garantirà una serie di servizi inclusi nel pacchetto che verrà concordato direttamente con il responsabile.
 
-Servizi come il [catering e banqueting]({{ '/servizi/catering-e-banqueting/' | relative_url }}) e l'[animazione e musica]({{ '/servizi/animazione-e-musica/' | relative_url }}) si scelgono in base al tuo evento.
+I servizi inclusi riguardano:
 
-Per il dettaglio di ciò che è compreso nel tuo caso, [contattaci]({{ '/contatti/' | relative_url }}): ti prepariamo una proposta chiara.
+- La pulizia ed il riordino della sala cerimoniale. Un servizio comodo grazie al quale eviterete di dover prendere contatti con eventuale personale esterno, facilitandovi l’iter organizzativo e permettendovi di concentrarvi su aspetti di maggiore importanza legati alla preparazione dell’evento da festeggiare.
+
+- Servizio di posteggiatore privato all’interno della villa a vostra completa disposizione per l’intera durata dell’evento. E’ anche questo un altro utilissimo servizio.
+
+Avendo infatti una figura che indirizzerà gli ospiti all’ingresso e che gestirà il riempimento del parcheggio in modo ordinato, si eviterà di creare confusione all’interno del parcheggio stesso ed il ricevimento degli ospiti risulterà più facile ed immediato. Un altro vantaggio a vostro favore che ci aiuterà a rendere la vostra festa perfetta.
+
+- La nostra struttura mette inoltre a disposizione rete Wi-Fi gratuita, per essere sempre connessi durante la cerimonia o la festa, in modo da poterne condividere fin da subito con i vostri amici ogni singolo istante.
+
+Oltre a questo saranno disponibili altri strumenti, come microfoni, impianti di amplificazione, proiettore digitale, TV e lettore DVD.

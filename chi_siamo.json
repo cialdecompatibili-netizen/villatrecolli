@@ -1,14 +1,11 @@
 {
   "_nota": "Contenuto della pagina /chi-siamo/. Modifica SOLO questo file, poi lancia: python pubblica_chi_siamo.py --push. Le sezioni sono in 'sezioni' e vengono generate nell'ordine scritto: per aggiungere/togliere/riordinare basta duplicare o cancellare un blocco. Tipi sezione: hero, numeri, griglia, finale. Nei testi e' ammesso HTML semplice (<b>, <a>). {baseurl} non serve: i link usano il filtro relative_url.",
-
   "pagina": {
     "titolo": "La villa",
     "permalink": "/chi-siamo/",
     "description": "Villa Tre Colli a Monterotondo, alle porte di Roma. Location per matrimoni, cerimonie, feste ed eventi aziendali con cucina interna.",
-    "nav": true,
-    "nav_order": 1
+    "nav": false
   },
-
   "contatti": {
     "whatsapp": "",
     "link_preventivo": "/contatti/",
@@ -17,13 +14,11 @@
     "testo_servizi": "Scopri la villa",
     "link_servizi": "/servizi/"
   },
-
   "stile": {
     "prefisso_css": "cs",
     "larghezza_max": "960px",
     "raggio": "12px"
   },
-
   "sezioni": [
     {
       "tipo": "hero",
@@ -32,15 +27,31 @@
       "paragrafi": [
         "Villa Tre Colli sorge a Monterotondo, immersa nel verde e nella quiete. È una location per matrimoni, cerimonie, feste private ed eventi aziendali, con sale interne, giardino all'inglese e una cucina interna per un servizio curato dall'inizio alla fine."
       ],
-      "bottoni": ["whatsapp", "preventivo", "servizi"]
+      "bottoni": [
+        "whatsapp",
+        "preventivo",
+        "servizi"
+      ]
     },
     {
       "tipo": "numeri",
       "voci": [
-        {"valore": "Fino a 250", "etichetta": "ospiti nella Sala Grande"},
-        {"valore": "2 sale", "etichetta": "collegate tra loro"},
-        {"valore": "Cucina interna", "etichetta": "piatti preparati sul posto"},
-        {"valore": "Uso esclusivo", "etichetta": "la villa è tutta per il tuo evento"}
+        {
+          "valore": "Fino a 250",
+          "etichetta": "ospiti nella Sala Grande"
+        },
+        {
+          "valore": "2 sale",
+          "etichetta": "collegate tra loro"
+        },
+        {
+          "valore": "Cucina interna",
+          "etichetta": "piatti preparati sul posto"
+        },
+        {
+          "valore": "Uso esclusivo",
+          "etichetta": "la villa è tutta per il tuo evento"
+        }
       ],
       "nota": ""
     },
@@ -50,9 +61,21 @@
       "sottotitolo": "Spazi interni ed esterni pensati per far stare bene gli ospiti.",
       "colonne": 3,
       "card": [
-        {"titolo": "Le sale", "testo": "Sala Grande e Sala Piccola, luminose e curate nei dettagli.", "link": "/servizi/le-sale-di-villa-tre-colli/"},
-        {"titolo": "Lo spazio esterno", "testo": "Giardino all'inglese e prato, per cerimonie, aperitivi e giochi dei bambini.", "link": "/servizi/lo-spazio-esterno/"},
-        {"titolo": "La cucina interna", "testo": "Il catering lavora sul posto e i piatti arrivano a tavola freschi.", "link": "/servizi/la-cucina-interna/"}
+        {
+          "titolo": "Le sale",
+          "testo": "Sala Grande e Sala Piccola, luminose e curate nei dettagli.",
+          "link": "/servizi/le-sale-di-villa-tre-colli/"
+        },
+        {
+          "titolo": "Lo spazio esterno",
+          "testo": "Giardino all'inglese e prato, per cerimonie, aperitivi e giochi dei bambini.",
+          "link": "/servizi/lo-spazio-esterno/"
+        },
+        {
+          "titolo": "La cucina interna",
+          "testo": "Il catering lavora sul posto e i piatti arrivano a tavola freschi.",
+          "link": "/servizi/la-cucina-interna/"
+        }
       ]
     },
     {
@@ -60,19 +83,47 @@
       "titolo": "Per quali eventi",
       "colonne": 3,
       "card": [
-        {"titolo": "Matrimoni", "testo": "Cerimonia, foto, aperitivo e ricevimento nello stesso luogo.", "link": "/servizi/matrimonio-a-villa-tre-colli/"},
-        {"titolo": "Matrimonio civile", "testo": "Rito civile ufficiale nel giardino, con il Messo Comunale.", "link": "/servizi/matrimonio-civile/"},
-        {"titolo": "Battesimi, comunioni e cresime", "testo": "Una giornata serena per grandi e piccoli.", "link": "/servizi/battesimo-comunione-e-cresima/"},
-        {"titolo": "Compleanni e feste a tema", "testo": "Per bambini, diciottesimi e adulti, con animazione se vuoi.", "link": "/servizi/compleanni-e-feste-a-tema/"},
-        {"titolo": "Meeting aziendali", "testo": "Riunioni, cene e giornate di team building fuori dall'ufficio.", "link": "/servizi/meeting-aziendali/"},
-        {"titolo": "Catering e banqueting", "testo": "Menù e allestimento con il nostro partner Pepe Catering.", "link": "/servizi/catering-e-banqueting/"}
+        {
+          "titolo": "Matrimoni",
+          "testo": "Cerimonia, foto, aperitivo e ricevimento nello stesso luogo.",
+          "link": "/servizi/matrimonio-a-villa-tre-colli/"
+        },
+        {
+          "titolo": "Matrimonio civile",
+          "testo": "Rito civile ufficiale nel giardino, con il Messo Comunale.",
+          "link": "/servizi/matrimonio-civile/"
+        },
+        {
+          "titolo": "Battesimi, comunioni e cresime",
+          "testo": "Una giornata serena per grandi e piccoli.",
+          "link": "/servizi/battesimo-comunione-e-cresima/"
+        },
+        {
+          "titolo": "Compleanni e feste a tema",
+          "testo": "Per bambini, diciottesimi e adulti, con animazione se vuoi.",
+          "link": "/servizi/compleanni-e-feste-a-tema/"
+        },
+        {
+          "titolo": "Meeting aziendali",
+          "testo": "Riunioni, cene e giornate di team building fuori dall'ufficio.",
+          "link": "/servizi/meeting-aziendali/"
+        },
+        {
+          "titolo": "Catering e banqueting",
+          "testo": "Menù e allestimento con il nostro partner Pepe Catering.",
+          "link": "/servizi/catering-e-banqueting/"
+        }
       ]
     },
     {
       "tipo": "finale",
       "titolo": "Vuoi vedere la villa?",
       "testo": "Vieni a trovarci in Via Guerrazzi 103, a Monterotondo, oppure chiama il 333 849 5178. Ti facciamo visitare la villa e prepariamo insieme il tuo evento.",
-      "bottoni": ["whatsapp", "preventivo", "servizi"]
+      "bottoni": [
+        "whatsapp",
+        "preventivo",
+        "servizi"
+      ]
     }
   ]
 }

@@ -1,9 +1,8 @@
 ---
 layout: page
 title: La villa
-nav: true
+nav: false
 permalink: /chi-siamo/
-nav_order: 1
 description: "Villa Tre Colli a Monterotondo, alle porte di Roma. Location per matrimoni, cerimonie, feste ed eventi aziendali con cucina interna."
 ---
 

@@ -1,22 +1,22 @@
 ---
 layout: servizio
 title: "Il Tunnel dell’Amore"
-description: "Il Tunnel dell’Amore di Villa Tre Colli a Monterotondo: un angolo romantico della villa, perfetto per le foto degli sposi."
+description: "Rendi il tuo matrimonio un evento speciale e suggestivo con il nostro Tunnel dell'Amore: solo a Villa Tre Colli, a Monterotondo!"
 gruppo: "La villa"
 ordine: 5
 sottotitolo: "Un angolo romantico per le foto"
 ---
 
-{% include immagine.liquid src="assets/img/villatrecolli/tunnel-amore-2-home.jpg" alt="Tunnel degli innamorati di Villa Tre Colli" align="center" %}
+## Il Tunnel dell’amore, un gioiello per il Vostro matrimonio, che rende unica Villa Tre Colli in tutta Roma
 
-Tra gli spazi della villa c'è anche il **Tunnel dell'Amore**, un percorso scenografico che sposi e festeggiati scelgono spesso per le foto più belle della giornata.
+Il tunnel dell’amore è una struttura ideata e realizzata appositamente per gli sposi, un’esclusiva tutta di Villa Tre Colli.
 
-## Perché piace
+Un viale interamente ricoperto da piante e fiori, un luogo fiabesco, nel quale scattare più foto, significherà catturare per sempre attimi indimenticabili, ricchi di intimità e dolcezza.
 
-- È un **fondale unico**, diverso dal solito giardino o dalla sala;
-- Si presta a **foto di coppia** e ritratti, con luce morbida;
-- Si raggiunge facilmente dal resto della villa, senza allontanare gli ospiti troppo a lungo.
+Il tunnel dell’amore racchiude in se un significato simbolico, attraversarlo insieme per tutta la sua lunghezza infatti, rappresenta la metafora della vita matrimoniale di due individui che, un tempo sconosciuti ed ora un’unica cosa, decidono di affrontare assieme tutto ciò che da quel momento incontreranno sul loro cammino.
 
-Insieme al [giardino]({{ '/servizi/lo-spazio-esterno/' | relative_url }}) e alle [sale]({{ '/servizi/le-sale-di-villa-tre-colli/' | relative_url }}), è uno dei luoghi che rendono la villa riconoscibile.
+*“Come gli sposi attraverseranno il viale, mano nella mano, abbracciati e accoccolati, allo stesso modo, nella vita, percorreranno i loro passi assieme, affrontando gli eventi che renderanno unico e speciale il loro percorso d’amore.”*
 
-Vuoi vederlo dal vivo? [Prenota una visita]({{ '/contatti/' | relative_url }}).
+E’ ormai una tradizione consolidata a Villa Tre Colli, far percorrere interamente ai novelli sposi il percorso tracciato dal nostro viale, nel mezzo del quale, se lo vorrete, potrete isolarvi in qualsiasi istante da tutto ciò che vi circonda, rimanendo l’unica cosa che di veramente importante c’è, quasi come se foste posti al centro dell’universo.
+
+Giungere alla fine del tunnel servirà da buon auspicio per la vita che la nuova coppia avrà davanti a sé.
